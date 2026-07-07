@@ -1,0 +1,11 @@
+[
+  {"message": "Thanks for sorting out my net banking login issue.", "expected_label": "POSITIVE_FEEDBACK", "customer_name": "Aditi"},
+  {"message": "Thank you so much, the new debit card arrived quickly!", "expected_label": "POSITIVE_FEEDBACK", "customer_name": "Rohit"},
+  {"message": "Great service, really appreciate the quick resolution.", "expected_label": "POSITIVE_FEEDBACK", "customer_name": "Meera"},
+  {"message": "My debit card replacement still hasn't arrived.", "expected_label": "NEGATIVE_FEEDBACK", "customer_name": "Sam"},
+  {"message": "This is the third time my UPI transfer has failed, very disappointed.", "expected_label": "NEGATIVE_FEEDBACK", "customer_name": "Priya"},
+  {"message": "My complaint about the wrong charge is still not resolved after a week.", "expected_label": "NEGATIVE_FEEDBACK", "customer_name": "Karan"},
+  {"message": "Could you check the status of ticket 650932?", "expected_label": "QUERY", "customer_name": "Aditi"},
+  {"message": "Any update on ticket 112233?", "expected_label": "QUERY", "customer_name": "Rohit"},
+  {"message": "What is the status of my complaint, ticket number 445566?", "expected_label": "QUERY", "customer_name": "Meera"}
+]

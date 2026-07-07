@@ -1,0 +1,5 @@
+streamlit>=1.35
+langchain-core>=0.2
+langchain-anthropic>=0.1
+langchain-openai>=0.1
+pytest>=8.0
